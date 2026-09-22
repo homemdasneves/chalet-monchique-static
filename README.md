@@ -1,0 +1,1 @@
+# chalet-monchique-static
